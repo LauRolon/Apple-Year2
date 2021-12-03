@@ -4,7 +4,7 @@
 #Last updated MLR 09/15/2021
 
 #Set working directory
-setwd("/storage/work/m/mlr355/Apple/Nanopore")
+setwd()
 
 #Attach libraries
 library(taxize)
