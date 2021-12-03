@@ -11,3 +11,5 @@ Data analysis workflow:
 4)Random forest analysis to determine OTUs that classify into Lm positive or negative
 
 5)Core microbiota and network analyses
+
+6)Analysis of Nanopore sequence data
