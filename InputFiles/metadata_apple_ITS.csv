@@ -1,0 +1,225 @@
+#Name,SampleID,Facility,Week ,Month,L. monocytogenes,Section,SampleOrder,SectionOrder,Year,FacY,Collection
+11031t,11031t,F1,W01,November,+,wash,10,1,Y1,Y1-F1,November 2017
+11032t,11032t,F1,W01,November,-,dry ,25,2,Y1,Y1-F1,November 2017
+11033t,11033t,F1,W01,November,-,wax,26,3,Y1,Y1-F1,November 2017
+11034t,11034t,F2,W01,November,+,wash,35,1,Y1,Y1-F2,November 2017
+11035t,11035t,F2,W01,November,+,dry ,34,2,Y1,Y1-F2,November 2017
+11036t,11036t,F2,W01,November,+,wax,36,3,Y1,Y1-F2,November 2017
+11037t,11037t,F3,W01,November,-,wash,22,1,Y1,Y1-F3,November 2017
+11038t,11038t,F3,W01,November,+,dry ,13,2,Y1,Y1-F3,November 2017
+11039t,11039t,F3,W01,November,-,wax,23,3,Y1,Y1-F3,November 2017
+11211t,11211t,F1,W02,November,+,wash,11,1,Y1,Y1-F1,November 2017
+11212t,11212t,F1,W02,November,-,dry ,27,2,Y1,Y1-F1,November 2017
+11213t,11213t,F1,W02,November,-,wax,28,3,Y1,Y1-F1,November 2017
+11214t,11214t,F2,W02,November,+,wash,38,1,Y1,Y1-F2,November 2017
+11215t,11215t,F2,W02,November,+,dry ,37,2,Y1,Y1-F2,November 2017
+11216t,11216t,F2,W02,November,+,wax,39,3,Y1,Y1-F2,November 2017
+11217t,11217t,F3,W02,November,+,wash,15,1,Y1,Y1-F3,November 2017
+11218t,11218t,F3,W02,November,+,dry ,14,2,Y1,Y1-F3,November 2017
+11219t,11219t,F3,W02,November,+,wax,16,3,Y1,Y1-F3,November 2017
+12081t,12081t,F1,W03,December,+,wash,3,1,Y1,Y1-F1,December 2017
+12082t,12082t,F1,W03,December,-,dry ,8,2,Y1,Y1-F1,December 2017
+12083t,12083t,F1,W03,December,-,wax,9,3,Y1,Y1-F1,December 2017
+12084t,12084t,F2,W03,December,+,wash,11,1,Y1,Y1-F2,December 2017
+12085t,12085t,F2,W03,December,+,dry ,10,2,Y1,Y1-F2,December 2017
+12086t,12086t,F2,W03,December,+,wax,12,3,Y1,Y1-F2,December 2017
+12087t,12087t,F3,W03,December,+,wash,2,1,Y1,Y1-F3,December 2017
+12088t,12088t,F3,W03,December,+,dry ,1,2,Y1,Y1-F3,December 2017
+12089t,12089t,F3,W03,December,+,wax,3,3,Y1,Y1-F3,December 2017
+12181t,12181t,F1,W04,December,-,wash,10,1,Y1,Y1-F1,December 2017
+12182t,12182t,F1,W04,December,+,dry ,4,2,Y1,Y1-F1,December 2017
+12183t,12183t,F1,W04,December,-,wax,11,3,Y1,Y1-F1,December 2017
+12184t,12184t,F2,W04,December,+,wash,14,1,Y1,Y1-F2,December 2017
+12185t,12185t,F2,W04,December,+,dry ,13,2,Y1,Y1-F2,December 2017
+12186t,12186t,F2,W04,December,+,wax,15,3,Y1,Y1-F2,December 2017
+12187t,12187t,F3,W04,December,-,wash,10,1,Y1,Y1-F3,December 2017
+12188t,12188t,F3,W04,December,+,dry ,4,2,Y1,Y1-F3,December 2017
+12189t,12189t,F3,W04,December,-,wax,11,3,Y1,Y1-F3,December 2017
+01051t,01051t,F1,W05,January,+,wash,8,1,Y1,Y1-F1,January 2018
+01052t,01052t,F1,W05,January,-,dry ,15,2,Y1,Y1-F1,January 2018
+01053t,01053t,F1,W05,January,-,wax,16,3,Y1,Y1-F1,January 2018
+01054t,01054t,F2,W05,January,+,wash,23,1,Y1,Y1-F2,January 2018
+01055t,01055t,F2,W05,January,+,dry ,22,2,Y1,Y1-F2,January 2018
+01056t,01056t,F2,W05,January,+,wax,24,3,Y1,Y1-F2,January 2018
+01057t,01057t,F3,W05,January,+,wash,6,1,Y1,Y1-F3,January 2018
+01058t,01058t,F3,W05,January,-,dry ,17,2,Y1,Y1-F3,January 2018
+01059t,01059t,F3,W05,January,+,wax,7,3,Y1,Y1-F3,January 2018
+01191t,01191t,F1,W06,January,-,wash,18,1,Y1,Y1-F1,January 2018
+01192t,01192t,F1,W06,January,-,dry ,17,2,Y1,Y1-F1,January 2018
+01193t,01193t,F1,W06,January,+,wax,9,3,Y1,Y1-F1,January 2018
+01194t,01194t,F2,W06,January,+,wash,26,1,Y1,Y1-F2,January 2018
+01195t,01195t,F2,W06,January,+,dry ,25,2,Y1,Y1-F2,January 2018
+01196t,01196t,F2,W06,January,+,wax,27,3,Y1,Y1-F2,January 2018
+01197t,01197t,F3,W06,January,+,wash,8,1,Y1,Y1-F3,January 2018
+01198t,01198t,F3,W06,January,-,dry ,18,2,Y1,Y1-F3,January 2018
+01199t,01199t,F3,W06,January,-,wax,19,3,Y1,Y1-F3,January 2018
+02021t,02021t,F1,W07,February,+,wash,6,1,Y1,Y1-F1,February 2018
+02022t,02022t,F1,W07,February,+,dry ,5,2,Y1,Y1-F1,February 2018
+02023t,02023t,F1,W07,February,-,wax,12,3,Y1,Y1-F1,February 2018
+02024t,02024t,F2,W07,February,+,wash,17,1,Y1,Y1-F2,February 2018
+02025t,02025t,F2,W07,February,+,dry ,16,2,Y1,Y1-F2,February 2018
+02026t,02026t,F2,W07,February,+,wax,18,3,Y1,Y1-F2,February 2018
+02027t,02027t,F3,W07,February,+,wash,5,1,Y1,Y1-F3,February 2018
+02028t,02028t,F3,W07,February,-,dry ,12,2,Y1,Y1-F3,February 2018
+02029t,02029t,F3,W07,February,-,wax,13,3,Y1,Y1-F3,February 2018
+02161t,02161t,F1,W08,February,+,wash,7,1,Y1,Y1-F1,February 2018
+02162t,02162t,F1,W08,February,-,dry ,13,2,Y1,Y1-F1,February 2018
+02163t,02163t,F1,W08,February,-,wax,14,3,Y1,Y1-F1,February 2018
+02164t,02164t,F2,W08,February,+,wash,20,1,Y1,Y1-F2,February 2018
+02165t,02165t,F2,W08,February,+,dry ,19,2,Y1,Y1-F2,February 2018
+02166t,02166t,F2,W08,February,+,wax,21,3,Y1,Y1-F2,February 2018
+02167t,02167t,F3,W08,February,-,wash,15,1,Y1,Y1-F3,February 2018
+02168t,02168t,F3,W08,February,-,dry ,14,2,Y1,Y1-F3,February 2018
+02169t,02169t,F3,W08,February,-,wax,16,3,Y1,Y1-F3,February 2018
+03021t,03021t,F1,W09,March,-,wash,20,1,Y1,Y1-F1,March 2018
+03022t,03022t,F1,W09,March,-,dry ,19,2,Y1,Y1-F1,March 2018
+03023t,03023t,F1,W09,March,-,wax,21,3,Y1,Y1-F1,March 2018
+03024t,03024t,F2,W09,March,+,wash,29,1,Y1,Y1-F2,March 2018
+03025t,03025t,F2,W09,March,+,dry ,28,2,Y1,Y1-F2,March 2018
+03026t,03026t,F2,W09,March,+,wax,30,3,Y1,Y1-F2,March 2018
+03027t,03027t,F3,W09,March,+,wash,9,1,Y1,Y1-F3,March 2018
+03028t,03028t,F3,W09,March,-,dry ,20,2,Y1,Y1-F3,March 2018
+03029t,03029t,F3,W09,March,+,wax,10,3,Y1,Y1-F3,March 2018
+03161t,03161t,F1,W10,March,-,wash,23,1,Y1,Y1-F1,March 2018
+03162t,03162t,F1,W10,March,-,dry ,22,2,Y1,Y1-F1,March 2018
+03163t,03163t,F1,W10,March,-,wax,24,3,Y1,Y1-F1,March 2018
+03164t,03164t,F2,W10,March,+,wash,32,1,Y1,Y1-F2,March 2018
+03165t,03165t,F2,W10,March,+,dry ,31,2,Y1,Y1-F2,March 2018
+03166t,03166t,F2,W10,March,+,wax,33,3,Y1,Y1-F2,March 2018
+03167t,03167t,F3,W10,March,+,wash,12,1,Y1,Y1-F3,March 2018
+03168t,03168t,F3,W10,March,+,dry ,11,2,Y1,Y1-F3,March 2018
+03169t,03169t,F3,W10,March,-,wax,21,3,Y1,Y1-F3,March 2018
+04041t,04041t,F1,W11,April,-,wash,2,1,Y1,Y1-F1,April 2018
+04042t,04042t,F1,W11,April,-,dry ,1,2,Y1,Y1-F1,April 2018
+04043t,04043t,F1,W11,April,-,wax,3,3,Y1,Y1-F1,April 2018
+04044t,04044t,F2,W11,April,+,wash,2,1,Y1,Y1-F2,April 2018
+04045t,04045t,F2,W11,April,+,dry ,1,2,Y1,Y1-F2,April 2018
+04046t,04046t,F2,W11,April,+,wax,3,3,Y1,Y1-F2,April 2018
+04047t,04047t,F3,W11,April,-,wash,2,1,Y1,Y1-F3,April 2018
+04048t,04048t,F3,W11,April,-,dry ,1,2,Y1,Y1-F3,April 2018
+04049t,04049t,F3,W11,April,-,wax,3,3,Y1,Y1-F3,April 2018
+04161t,04161t,F1,W12,April,-,wash,5,1,Y1,Y1-F1,April 2018
+04162t,04162t,F1,W12,April,-,dry ,4,2,Y1,Y1-F1,April 2018
+04163t,04163t,F1,W12,April,-,wax,6,3,Y1,Y1-F1,April 2018
+04164t,04164t,F2,W12,April,+,wash,5,1,Y1,Y1-F2,April 2018
+04165t,04165t,F2,W12,April,+,dry ,4,2,Y1,Y1-F2,April 2018
+04166t,04166t,F2,W12,April,+,wax,6,3,Y1,Y1-F2,April 2018
+04167t,04167t,F3,W12,April,-,wash,5,1,Y1,Y1-F3,April 2018
+04168t,04168t,F3,W12,April,-,dry ,4,2,Y1,Y1-F3,April 2018
+04169t,04169t,F3,W12,April,-,wax,6,3,Y1,Y1-F3,April 2018
+04271t,04271t,F1,W13,April,+,wash,2,1,Y1,Y1-F1,April 2018
+04272t,04272t,F1,W13,April,+,dry ,1,2,Y1,Y1-F1,April 2018
+04273t,04273t,F1,W13,April,-,wax,7,3,Y1,Y1-F1,April 2018
+04274t,04274t,F2,W13,April,+,wash,8,1,Y1,Y1-F2,April 2018
+04275t,04275t,F2,W13,April,+,dry ,7,2,Y1,Y1-F2,April 2018
+04276t,04276t,F2,W13,April,+,wax,9,3,Y1,Y1-F2,April 2018
+04277t,04277t,F3,W13,April,-,wash,8,1,Y1,Y1-F3,April 2018
+04278t,04278t,F3,W13,April,-,dry ,7,2,Y1,Y1-F3,April 2018
+04279t,04279t,F3,W13,April,-,wax,9,3,Y1,Y1-F3,April 2018
+1t110318,1t110318,F1,W01,November,+,wash,1,1,Y2,Y2-F1,November 2018
+2t110318,2t110318,F1,W01,November,-,dry,1,2,Y2,Y2-F1,November 2018
+3t110318,3t110318,F1,W01,November,-,wax,2,3,Y2,Y2-F1,November 2018
+4t110318,4t110318,F2,W01,November,+,wash,1,1,Y2,Y2-F2,November 2018
+5t110318,5t110318,F2,W01,November,+,dry,2,2,Y2,Y2-F2,November 2018
+6t110318,6t110318,F2,W01,November,+,wax,3,3,Y2,Y2-F2,November 2018
+7t110318,7t110318,F3,W01,November,-,wash,1,1,Y2,Y2-F3,November 2018
+8t110318,8t110318,F3,W01,November,+,dry,1,2,Y2,Y2-F3,November 2018
+9t110318,9t110318,F3,W01,November,-,wax,2,3,Y2,Y2-F3,November 2018
+1t112618,1t112618,F1,W02,November,-,wash,3,1,Y2,Y2-F1,November 2018
+2t112618,2t112618,F1,W02,November,-,dry,4,2,Y2,Y2-F1,November 2018
+3t112618,3t112618,F1,W02,November,+,wax,2,3,Y2,Y2-F1,November 2018
+4t112618,4t112618,F2,W02,November,+,wash,4,1,Y2,Y2-F2,November 2018
+5t112618,5t112618,F2,W02,November,+,dry,5,2,Y2,Y2-F2,November 2018
+6t112618,6t112618,F2,W02,November,+,wax,6,3,Y2,Y2-F2,November 2018
+7t112618,7t112618,F3,W02,November,+,wash,2,1,Y2,Y2-F3,November 2018
+8t112618,8t112618,F3,W02,November,+,dry,3,2,Y2,Y2-F3,November 2018
+9t112618,9t112618,F3,W02,November,+,wax,4,3,Y2,Y2-F3,November 2018
+1t120718,1t120718,F1,W03,December,+,wash,3,1,Y2,Y2-F1,December 2018
+2t120718,2t120718,F1,W03,December,-,dry,5,2,Y2,Y2-F1,December 2018
+3t120718,3t120718,F1,W03,December,-,wax,6,3,Y2,Y2-F1,December 2018
+4t120718,4t120718,F2,W03,December,+,wash,7,1,Y2,Y2-F2,December 2018
+5t120718,5t120718,F2,W03,December,+,dry,8,2,Y2,Y2-F2,December 2018
+6t120718,6t120718,F2,W03,December,+,wax,9,3,Y2,Y2-F2,December 2018
+7t120718,7t120718,F3,W03,December,+,wash,5,1,Y2,Y2-F3,December 2018
+8t120718,8t120718,F3,W03,December,+,dry,6,2,Y2,Y2-F3,December 2018
+9t120718,9t120718,F3,W03,December,+,wax,7,3,Y2,Y2-F3,December 2018
+1t121418,1t121418,F1,W04,December,-,wash,7,1,Y2,Y2-F1,December 2018
+2t121418,2t121418,F1,W04,December,-,dry,8,2,Y2,Y2-F1,December 2018
+3t121418,3t121418,F1,W04,December,-,wax,9,3,Y2,Y2-F1,December 2018
+4t121418,4t121418,F2,W04,December,+,wash,10,1,Y2,Y2-F2,December 2018
+5t121418,5t121418,F2,W04,December,+,dry,11,2,Y2,Y2-F2,December 2018
+6t121418,6t121418,F2,W04,December,+,wax,12,3,Y2,Y2-F2,December 2018
+7t121418,7t121418,F3,W04,December,+,wash,8,1,Y2,Y2-F3,December 2018
+8t121418,8t121418,F3,W04,December,+,dry,9,2,Y2,Y2-F3,December 2018
+9t121418,9t121418,F3,W04,December,+,wax,10,3,Y2,Y2-F3,December 2018
+1t011119,1t011119,F1,W05,January,+,wash,4,1,Y2,Y2-F1,January 2019
+2t011119,2t011119,F1,W05,January,-,dry,10,2,Y2,Y2-F1,January 2019
+3t011119,3t011119,F1,W05,January,+,wax,5,3,Y2,Y2-F1,January 2019
+4t011119,4t011119,F2,W05,January,+,wash,13,1,Y2,Y2-F2,January 2019
+5t011119,5t011119,F2,W05,January,+,dry,14,2,Y2,Y2-F2,January 2019
+6t011119,6t011119,F2,W05,January,+,wax,15,3,Y2,Y2-F2,January 2019
+7t011119,7t011119,F3,W05,January,+,wash,11,1,Y2,Y2-F3,January 2019
+8t011119,8t011119,F3,W05,January,+,dry,12,2,Y2,Y2-F3,January 2019
+9t011119,9t011119,F3,W05,January,+,wax,13,3,Y2,Y2-F3,January 2019
+1t012519,1t012519,F1,W06,January,+,wash,6,1,Y2,Y2-F1,January 2019
+2t012519,2t012519,F1,W06,January,+,dry,7,2,Y2,Y2-F1,January 2019
+3t012519,3t012519,F1,W06,January,-,wax,11,3,Y2,Y2-F1,January 2019
+4t012519,4t012519,F2,W06,January,+,wash,16,1,Y2,Y2-F2,January 2019
+5t012519,5t012519,F2,W06,January,+,dry,17,2,Y2,Y2-F2,January 2019
+6t012519,6t012519,F2,W06,January,+,wax,18,3,Y2,Y2-F2,January 2019
+7t012519,7t012519,F3,W06,January,+,wash,14,1,Y2,Y2-F3,January 2019
+8t012519,8t012519,F3,W06,January,+,dry,15,2,Y2,Y2-F3,January 2019
+9t012519,9t012519,F3,W06,January,+,wax,16,3,Y2,Y2-F3,January 2019
+1t020719,1t020719,F1,W07,February,+,wash,8,1,Y2,Y2-F1,February 2019
+2t020719,2t020719,F1,W07,February,+,dry,9,2,Y2,Y2-F1,February 2019
+3t020719,3t020719,F1,W07,February,-,wax,12,3,Y2,Y2-F1,February 2019
+4t020719,4t020719,F2,W07,February,+,wash,19,1,Y2,Y2-F2,February 2019
+5t020719,5t020719,F2,W07,February,+,dry,20,2,Y2,Y2-F2,February 2019
+6t020719,6t020719,F2,W07,February,+,wax,21,3,Y2,Y2-F2,February 2019
+7t020719,7t020719,F3,W07,February,+,wash,17,1,Y2,Y2-F3,February 2019
+8t020719,8t020719,F3,W07,February,+,dry,18,2,Y2,Y2-F3,February 2019
+9t020719,9t020719,F3,W07,February,+,wax,19,3,Y2,Y2-F3,February 2019
+1t022119,1t022119,F1,W08,February,+,wash,10,1,Y2,Y2-F1,February 2019
+2t022119,2t022119,F1,W08,February,-,dry,13,2,Y2,Y2-F1,February 2019
+3t022119,3t022119,F1,W08,February,+,wax,11,3,Y2,Y2-F1,February 2019
+4t022119,4t022119,F2,W08,February,+,wash,22,1,Y2,Y2-F2,February 2019
+5t022119,5t022119,F2,W08,February,+,dry,23,2,Y2,Y2-F2,February 2019
+6t022119,6t022119,F2,W08,February,+,wax,24,3,Y2,Y2-F2,February 2019
+7t022119,7t022119,F3,W08,February,+,wash,20,1,Y2,Y2-F3,February 2019
+8t022119,8t022119,F3,W08,February,+,dry,21,2,Y2,Y2-F3,February 2019
+9t022119,9t022119,F3,W08,February,+,wax,22,3,Y2,Y2-F3,February 2019
+1t030719,1t030719,F1,W09,March,+,wash,12,1,Y2,Y2-F1,March 2019
+2t030719,2t030719,F1,W09,March,+,dry,13,2,Y2,Y2-F1,March 2019
+3t030719,3t030719,F1,W09,March,+,wax,14,3,Y2,Y2-F1,March 2019
+4t030719,4t030719,F2,W09,March,+,wash,25,1,Y2,Y2-F2,March 2019
+5t030719,5t030719,F2,W09,March,+,dry,26,2,Y2,Y2-F2,March 2019
+6t030719,6t030719,F2,W09,March,+,wax,27,3,Y2,Y2-F2,March 2019
+7t030719,7t030719,F3,W09,March,+,wash,23,1,Y2,Y2-F3,March 2019
+8t030719,8t030719,F3,W09,March,+,dry,24,2,Y2,Y2-F3,March 2019
+9t030719,9t030719,F3,W09,March,+,wax,25,3,Y2,Y2-F3,March 2019
+1t032119,1t032119,F1,W10,March,-,wash,14,1,Y2,Y2-F1,March 2019
+2t032119,2t032119,F1,W10,March,-,dry,15,2,Y2,Y2-F1,March 2019
+3t032119,3t032119,F1,W10,March,+,wax,15,3,Y2,Y2-F1,March 2019
+4t032119,4t032119,F2,W10,March,+,wash,28,1,Y2,Y2-F2,March 2019
+6t032119,6t032119,F2,W10,March,+,wax,29,3,Y2,Y2-F2,March 2019
+7t032119,7t032119,F3,W10,March,-,wash,3,1,Y2,Y2-F3,March 2019
+8t032119,8t032119,F3,W10,March,-,dry,4,2,Y2,Y2-F3,March 2019
+9t032119,9t032119,F3,W10,March,+,wax,26,3,Y2,Y2-F3,March 2019
+1t040419,1t040419,F1,W11,April,-,wash,16,1,Y2,Y2-F1,April 2019
+2t040419,2t040419,F1,W11,April,-,dry,17,2,Y2,Y2-F1,April 2019
+3t040419,3t040419,F1,W11,April,-,wax,18,3,Y2,Y2-F1,April 2019
+4t040419,4t040419,F2,W11,April,+,wash,30,1,Y2,Y2-F2,April 2019
+5t040419,5t040419,F2,W11,April,+,dry,31,2,Y2,Y2-F2,April 2019
+6t040419,6t040419,F2,W11,April,+,wax,32,3,Y2,Y2-F2,April 2019
+7t040419,7t040419,F3,W11,April,+,wash,27,1,Y2,Y2-F3,April 2019
+8t040419,8t040419,F3,W11,April,+,dry,28,2,Y2,Y2-F3,April 2019
+9t040419,9t040419,F3,W11,April,+,wax,29,3,Y2,Y2-F3,April 2019
+1t042619,1t042619,F1,W12,April,-,wash,19,1,Y2,Y2-F1,April 2019
+2t042619,2t042619,F1,W12,April,-,dry,20,2,Y2,Y2-F1,April 2019
+3t042619,3t042619,F1,W12,April,-,wax,21,3,Y2,Y2-F1,April 2019
+4t042619,4t042619,F2,W12,April,+,wash,33,1,Y2,Y2-F2,April 2019
+5t042619,5t042619,F2,W12,April,+,dry,34,2,Y2,Y2-F2,April 2019
+6t042619,6t042619,F2,W12,April,+,wax,35,3,Y2,Y2-F2,April 2019
+7t042619,7t042619,F3,W12,April,+,wash,30,1,Y2,Y2-F3,April 2019
+8t042619,8t042619,F3,W12,April,-,dry,5,2,Y2,Y2-F3,April 2019
+9t042619,9t042619,F3,W12,April,+,wax,31,3,Y2,Y2-F3,April 2019
