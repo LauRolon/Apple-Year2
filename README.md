@@ -2,12 +2,12 @@
 
 Data analysis workflow: 
 
-1)Lm occurrance data
+1)Lm occurrence analysis 
 
-2)CoDa analysis of microbiota and mycobiota
+2)Compositional data analysis of microbiota and mycobiota
 
 3)Differencial abundance analysis by facility and Lm presence
 
-4)randomForest analysis to determine OTUs that classify into Lm positive or negative
+4)Random forest analysis to determine OTUs that classify into Lm positive or negative
 
 5)Core microbiota and network analyses
