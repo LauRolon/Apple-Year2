@@ -25,7 +25,7 @@ library(svglite)
 set.seed(336)
 
 #Set working directory to where files are located
-setwd("/storage/work/m/mlr355/Apple/Differential Abundance")
+setwd()
 
 #### IMPORT DATA ####
 
