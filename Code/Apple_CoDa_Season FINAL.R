@@ -27,7 +27,7 @@ library(svglite)
 set.seed(336)
 
 #Set working directory to where files are located
-setwd("C:/Users/lau_r/Google Drive/Penn State/Research/File for R/Apple/CoDa/By season")
+setwd()
 
 #### IMPORT DATA ####
 
