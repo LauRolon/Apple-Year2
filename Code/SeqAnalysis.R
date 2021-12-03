@@ -4,7 +4,7 @@
 #Last updated: 05/26/21
 
 #Set working directory
-setwd("C:/Users/lau_r/Google Drive/Penn State/Research/File for R/Apple/Reads")
+setwd()
 
 #Attach libraries
 library(ggplot2)
