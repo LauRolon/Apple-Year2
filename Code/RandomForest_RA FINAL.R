@@ -15,7 +15,7 @@ library(zCompositions)
 library(compositions)
 
 #Set working directory to where files are located
-setwd("/storage/work/m/mlr355/Apple/RandomForest/RA")
+setwd()
 
 #### IMPORT DATA ####
 
