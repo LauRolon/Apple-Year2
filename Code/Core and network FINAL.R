@@ -14,7 +14,7 @@ library(cowplot)
 library(svglite)
 
 #Set working directory to where files are located
-setwd("/storage/work/m/mlr355/Apple/Networks/SPIEC-EASI")
+setwd()
 
 #### IMPORT DATA ####
 
