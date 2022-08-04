@@ -1,6 +1,2 @@
-#### Input files ####
-
-1)OTU tables for 16s and ITS
-2)Taxon tables for 16s and ITS
-3)Metadata
-4)Nanopore tables (*NOTE: these files are too big to be uploaded)
+#### Input files ###
+1)Metadata
