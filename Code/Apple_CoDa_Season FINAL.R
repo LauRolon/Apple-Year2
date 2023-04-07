@@ -1,7 +1,7 @@
 #Two-year monitoring of Lm in apple packing houses
 #Analysis of microbiomes and mycobiomes using CoDa approach at ASV level
 #Laura Rolon
-#Last updated: 07/26/22
+#Last updated: 03/24/2023
 
 #Load packages
 library(ape)
@@ -241,9 +241,8 @@ pc_out_meta_16s$Year<-as.factor(pc_out_meta_16s$Year)
 
 # Make PCA plot - First 2 axis- color by facility/Y and shape by L..mono
 #Fig 2A
-PCA_16s <- ggplot(pc_out_meta_16s, aes(x=PC1,y=PC2, color=Facility, shape=Year))+
+PCA_16s <- ggplot(pc_out_meta_16s, aes(x=PC1,y=PC2, color=FacY, shape=L.monocytogenes))+
   geom_point(size=3)+
-  scale_shape_manual(values = c(15,12))+
   theme(legend.text=element_text(size=15,color='black'), legend.title= element_text(size=15, face='italic')) +
   theme(legend.position = 'right')+
   #theme(plot.margin=margin(t=0.5, b=0.5, l=0.5, r=0.5, unit = 'in'))+
@@ -257,8 +256,8 @@ PCA_16s <- ggplot(pc_out_meta_16s, aes(x=PC1,y=PC2, color=Facility, shape=Year))
   ggtitle("Bacteria", subtitle = "PCA by Facility and Season")+theme(plot.title = element_text(hjust = 0.5, face = 'bold', size=16))+
   scale_color_viridis_d(begin = 0.2, end = 0.8, option='inferno')
 PCA_16s
-ggsave("PCA_Bacteria_ASV2.png", plot =PCA_16s, device="png", width=6, height=5, units="in",dpi=600)
-ggsave("PCA_Bacteria_ASV2.svg", plot =PCA_16s, device="svg", width=6, height=5, units="in",dpi=600)
+ggsave("PCA_Bacteria_ASV3.png", plot =PCA_16s, device="png", width=6, height=5, units="in",dpi=600)
+ggsave("PCA_Bacteria_ASV3.svg", plot =PCA_16s, device="svg", width=6, height=5, units="in",dpi=600)
 
 #Display results -ITS
 row_ITS<-rownames(asv.n0.clr_ITS) #Make vector with sample names
@@ -272,9 +271,8 @@ pc_out_meta_ITS$Year<-as.factor(pc_out_meta_ITS$Year)
 
 # Make PCA plot - First 2 axis- color by facility/Y and shape by L..mono
 #Fig 2D
-PCA_ITS <- ggplot(pc_out_meta_ITS, aes(x=PC1,y=PC2, color=Facility, shape=Year))+
+PCA_ITS <- ggplot(pc_out_meta_ITS, aes(x=PC1,y=PC2, color=FacY, shape=L.monocytogenes))+
   geom_point(size=3)+
-  scale_shape_manual(values = c(15,12))+
   theme(legend.text=element_text(size=15,color='black'), legend.title= element_text(size=13, face='italic')) +
   theme(legend.position = 'right')+
   #theme(plot.margin=margin(t=0.5, b=0.5, l=0.5, r=0.5, unit = 'in'))+
@@ -288,8 +286,8 @@ PCA_ITS <- ggplot(pc_out_meta_ITS, aes(x=PC1,y=PC2, color=Facility, shape=Year))
     ggtitle("Fungi", subtitle = "PCA by Facility and Season")+theme(plot.title = element_text(hjust = 0.5, face = 'bold', size=16))+
   scale_color_viridis_d(begin = 0.2, end = 0.8, option='inferno')
 PCA_ITS
-ggsave("PCA_Fungi_ASV.png", plot =PCA_ITS, device="png", width=6, height=5, units="in",dpi=600)
-ggsave("PCA_Fungi_ASV.svg", plot =PCA_ITS, device="svg", width=6, height=5, units="in",dpi=600)
+ggsave("PCA_Fungi_ASV3.png", plot =PCA_ITS, device="png", width=6, height=5, units="in",dpi=600)
+ggsave("PCA_Fungi_ASV3.svg", plot =PCA_ITS, device="svg", width=6, height=5, units="in",dpi=600)
 
 # PERMANOVA #
 #Calculate Aitchinson distance
@@ -310,7 +308,7 @@ permanova_ITS
 ##Continue by (1) splitting ASV table by Year to see Facility effect within each year and
 ##(2) splitting ASV table by Facility to see Seasonal effect within each Facility
 
-#### Composition of microbiota by year - Bubble plots by facility and year #### 
+#### Composition of microbiota by year - Plots by facility and year #### 
 #ASV level plots
 
 #Transform sample counts into compositions
@@ -1348,3 +1346,16 @@ pairwise.adonis(dist_ITSF3, factors=metadata.ITSF3$Year, perm = 999, p.adjust.m 
 
 #Check # of Listeria spp reads in samples that were used for Nanopore sequencing
 asv_Nanopore_Lm<- asvs_16s[rownames(asvs_16s) %in% c("SRR12559261","SRR12559222","SRR12559271"), colnames(asv_Nanopore) %in% c("ASV11509", "ASV34463", "ASV34514")] 
+
+
+#Check Listeria reads in Amplicon data
+phyloseq_clean_16s<-phyloseq(otu_table(asv_16s, taxa_are_rows = FALSE), tax_table(taxon_16s), sample_data(metadata.16s))
+
+phyloseq_list<-subset_taxa(phyloseq_clean_16s, Genus =="Listeria")
+
+
+#Make long format table from Phyloseq object
+asv_16s_list <- phyloseq_list %>%  
+  transform_sample_counts(function(x) {x * 100} ) %>% #Recalculates the relative abundance 
+  psmelt() %>%  #Melts to long format
+  arrange(desc(Abundance))
