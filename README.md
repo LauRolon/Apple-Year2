@@ -1,5 +1,5 @@
 # Two year monitoring of environmental microbiota and mycobiota of tree fruit packing houses and their effect on the occurrance of <i>L. monocytogenes</i>
-# Manuscript in review
+# Manuscript accepted for publication in BMC Microbiome
 
 Data analysis workflow: 
 
@@ -14,3 +14,7 @@ Data analysis workflow:
 5)Core microbiota and network analyses
 
 6)Analysis of Nanopore sequence data
+
+Input files
+1) Metadata for 16s
+2) Metadata for ITS
