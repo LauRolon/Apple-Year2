@@ -4,7 +4,7 @@ Rolon, M.L., Tan, X., Chung, T. et al. The composition of environmental microbio
 
 https://doi.org/10.1186/s40168-023-01544-8
 
-Data analysis workflow: 
+<s>Data analysis workflow: </s>
 
 1)Lm occurrence analysis 
 
