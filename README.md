@@ -4,20 +4,20 @@ Rolon, M.L., Tan, X., Chung, T. et al. The composition of environmental microbio
 
 https://doi.org/10.1186/s40168-023-01544-8
 
-<s>Data analysis workflow: </s>
+## Data analysis workflow:
 
-1)Lm occurrence analysis 
+1. Lm occurrence analysis 
 
-2)Compositional data analysis of microbiota and mycobiota
+2. Compositional data analysis of microbiota and mycobiota
 
-3)Differencial abundance analysis by facility and Lm presence
+3. Differencial abundance analysis by facility and Lm presence
 
-4)Random forest analysis to determine OTUs that classify into Lm positive or negative
+4. Random forest analysis to determine ASVs that classify into Lm positive or negative
 
-5)Core microbiota and network analyses
+5. Core microbiota and network analyses
 
-6)Analysis of Nanopore sequence data
+6. Analysis of Nanopore sequence data
 
-Input files
-1) Metadata for 16s
-2) Metadata for ITS
+## Input files
+1. Metadata for 16s
+2. Metadata for ITS
