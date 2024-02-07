@@ -433,7 +433,7 @@ OccAbun_ITSF1_time<-bind_cols(asv_ITSF1_time_occ,asv_ITSF1_abun_time)
 OccAbun_ITSF2_time<-bind_cols(asv_ITSF2_time_occ,asv_ITSF2_abun_time)
 OccAbun_ITSF3_time<-bind_cols(asv_ITSF3_time_occ,asv_ITSF3_abun_time)
 
-#Add color column for ASVs with Occurrance=1
+#Add color column for ASVs with occurrence=1
 OccAbun_16sF1_time$color<-ifelse(OccAbun_16sF1_time$MeanOcc==1, "yes", "no")
 OccAbun_16sF2_time$color<-ifelse(OccAbun_16sF2_time$MeanOcc==1, "yes", "no")
 OccAbun_16sF3_time$color<-ifelse(OccAbun_16sF3_time$MeanOcc==1, "yes", "no")
